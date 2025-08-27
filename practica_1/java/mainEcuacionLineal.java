@@ -1,7 +1,7 @@
 package practica_1.java;
 
 import java.util.Scanner;
-// Ejercicio 1: Ecuacion Lineal
+
 public class mainEcuacionLineal{
     public static void main (String[] args){
         Scanner sc=new Scanner(System.in);

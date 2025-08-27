@@ -1,5 +1,5 @@
 package practica_1.java;
-// Ejercicio 1: Ecuacion Lineal
+
 
 public class EcuacionLineal {
     private float a;

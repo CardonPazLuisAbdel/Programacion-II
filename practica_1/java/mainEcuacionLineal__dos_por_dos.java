@@ -1,6 +1,6 @@
 package practica_1.java;
 import java.util.Scanner;
-// Ejercicio 2: Ecuacion Lineal 2x2
+
 public class mainEcuacionLineal__dos_por_dos {
     public static void main (String[] args){
         Scanner sc=new Scanner(System.in);

@@ -1,5 +1,5 @@
 package practica_1.java;
-// Ejercicio 2: Ecuacion Lineal 2x2
+
 public class EcuacionLineal__dos_por_dos {
     private double a;
     private double b;
